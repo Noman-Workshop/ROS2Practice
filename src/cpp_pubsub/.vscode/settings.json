@@ -1,0 +1,16 @@
+{
+	"editor.tabSize": 4,
+	"cSpell.words": [
+		"rclcpp"
+	],
+	"python.autoComplete.extraPaths": [
+		"/opt/ros/humble/lib/python3.10/site-packages",
+		"/opt/ros/humble/local/lib/python3.10/dist-packages"
+	],
+	"terminal.integrated.profiles.linux": {
+		"bash": {
+			"path": "/usr/bin/bash",
+		}
+	},
+	"terminal.integrated.defaultProfile.linux": "bash",
+}

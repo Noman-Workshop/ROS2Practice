@@ -1,0 +1,2 @@
+Invoking command in '/home/noman637/ros2-practice/ws/src/build/cpp_pubsub': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/noman637/ros2-practice/ws/src/build/cpp_pubsub -- -j1 -l1
+Invoked command in '/home/noman637/ros2-practice/ws/src/build/cpp_pubsub' returned '2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/noman637/ros2-practice/ws/src/build/cpp_pubsub -- -j1 -l1
